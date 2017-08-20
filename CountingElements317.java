@@ -1,13 +1,13 @@
 import java.util.List;
 import java.util.LinkedList;
 
-/* Numbers not yet implemented. Parentheses not yet implemented.
+/* Parentheses not yet implemented.
 */
 
 /** r/DailyProgrammer Intermediate #317.
  * Takes a chemical formula as text input.
  * Prints the quantity of each element.
- * @author u/cornfedinbred
+ * @author Eric Cao
  */
 public class CountingElements317 {
 
