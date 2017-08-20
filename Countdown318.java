@@ -2,8 +2,12 @@ import java.util.List;
 import java.util.LinkedList;
 import java.util.Queue;
 
+/* This program is incomplete. It only checks for solutions in which the
+numbers stay in order, which is not how Countdown is played. I'm not
+currently planning on finishing this program. */
+
 /** r/DailyProgrammer Easy Challenge #318.
- * @author u/cornfedinbred
+ * @author Eric Cao
  */
 public class Countdown318 {
 

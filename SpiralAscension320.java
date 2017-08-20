@@ -1,5 +1,6 @@
 /** r/DailyProgrammer Spiral Ascension #320. User inputs size of spiral and
  * direction of spiral: 0 if CW, 1 if CCW.
+ * @author Eric Cao
  */
 public class SpiralAscension320 {
   // TODO: review 2D array x, y orientation syntax
