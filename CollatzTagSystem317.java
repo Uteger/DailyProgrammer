@@ -4,13 +4,11 @@ import java.util.NoSuchElementException;
 import java.util.Scanner;
 
 /** r/dailyprogrammer challenge #317.
- *
- * @author u/cornfedinbred
+ * @author Eric Cao
  */
 public class CollatzTagSystem317 {
 
   /** Main method.
-   *
    * @param args not used.
    */
   public static void main(String[] args) {
